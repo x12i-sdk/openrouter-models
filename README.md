@@ -19,8 +19,8 @@ npm start
 
 ## When to use the package
 
-- A consumer needs the following capability: Offline JSON-backed OpenRouter model catalog (pricing, modalities, status).
-- An application needs the versioned openrouter-models definitions or bundled content instead of maintaining its own copy.
+- List model identities and modalities from a bundled OpenRouter snapshot.
+- Inspect recorded price and status fields while building a model comparison screen.
 
 ## Links
 
