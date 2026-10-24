@@ -1,0 +1,21 @@
+{
+  "schemaVersion": 1,
+  "package": "openrouter-models",
+  "packageVersion": "0.3.0",
+  "npmUrl": "https://www.npmjs.com/package/openrouter-models",
+  "usageRepository": "https://github.com/x12i-sdk/openrouter-models",
+  "sourceRepository": "https://github.com/x12i/ai-profiles",
+  "sourceCommit": "8efd4dc11dfaacab2ceef9f030a4a3fa7da00800",
+  "sourcePackageDirectory": "packages/openrouter-models",
+  "example": {
+    "title": "Look up models in the bundled offline catalog",
+    "entrypoint": "src/index.mjs",
+    "command": "npm start",
+    "requiresCredentials": false,
+    "validation": "passed",
+    "validatedAt": "2026-10-24T12:33:05.646487+00:00",
+    "isolatedInstallation": true,
+    "sourceSha256": "9db0b1bf9a2ce5f09e880d3b3fa3bf3d2acf7ee1273f73eca6a80fb5adf6298c",
+    "manifestSha256": "aee1cde039758160646ced471a97017e11d77e7be146d279187babed8038bc4a"
+  }
+}
